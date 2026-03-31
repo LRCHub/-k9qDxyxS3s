@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Shadow Moses",
   "base_artist": "Bring Me The Horizon",
-  "createdAt": "2026-03-31T11:46:47.040881Z",
+  "createdAt": "2026-03-31T11:50:18.560161Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "Bring Me The Horizon",
       "has_synced": false,
       "path": "select/pl_01_Shadow_Moses_Bring_Me_The_Horizon.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Shadow Moses",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/localdb_01_Shadow_Moses_Bring_Me_The_Horizon.lrc",
+      "repo_name": "-k9qDxyxS3s"
     }
   ]
 }
