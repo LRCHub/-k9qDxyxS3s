@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Shadow Moses",
+  "base_artist": "Bring Me The Horizon",
+  "createdAt": "2026-03-31T11:46:47.040881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/01_Shadow_Moses_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/02_Shadow_Moses_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/03_Shadow_Moses_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/04_Shadow_Moses_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shadow Moses - Live at the Royal Albert Hall",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/05_Shadow_Moses_-_Live_at_the_Royal_Albert_Hall_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/06_Shadow_Moses_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/07_Shadow_Moses_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "ブリングミーザホライゾン",
+      "has_synced": true,
+      "path": "select/08_Shadow_Moses_ブリングミーザホライゾン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me the Horizon feat. Parallax Orchestra",
+      "has_synced": true,
+      "path": "select/09_Shadow_Moses_Bring_Me_the_Horizon_feat._Parallax_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/10_Shadow_Moses_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/11_Shadow_Moses_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/12_Shadow_Moses_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/13_Shadow_Moses_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/14_Shadow_Moses_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shadow Moses (Official Video)",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/15_Shadow_Moses_(Official_Video)_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shadow Moses",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/16_Shadow_Moses_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shadow Moses",
+      "artist": "Bring Me The Horizon",
+      "has_synced": false,
+      "path": "select/pl_01_Shadow_Moses_Bring_Me_The_Horizon.txt"
+    }
+  ]
+}
